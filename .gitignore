@@ -1,0 +1,9 @@
+# Generated backup files
+backups/*.tar.gz
+
+# Local quiz results
+reports/results.csv
+reports/wrong.txt
+
+# Generated Question of the Day
+qotd.txt

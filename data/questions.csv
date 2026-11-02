@@ -1,0 +1,26 @@
+question,A,B,C,D,answer
+Which command shows the current directory?,ls,pwd,cd,cat,B
+Which command lists files?,pwd,ls,cd,rm,B
+Which command creates a folder?,touch,cp,mkdir,rm,C
+Which command deletes a file?,rm,ls,pwd,cat,A
+Which command displays file contents?,cat,cd,mkdir,rm,A
+Which command changes directory?,ls,cd,cp,grep,B
+Which command copies a file?,cp,mv,rm,ls,A
+Which command renames a file?,mv,cat,ls,pwd,A
+Which command searches text?,grep,cd,rm,mkdir,A
+Which command counts lines?,wc,cp,ls,rm,A
+Which command changes permissions?,chmod,grep,cat,pwd,A
+Which command shows the username?,whoami,date,ls,cd,A
+Which command shows the date?,date,sort,uniq,cut,A
+Which command sorts lines?,sort,grep,rm,cd,A
+Which command removes adjacent duplicates?,uniq,cp,mv,ls,A
+Which command extracts text columns?,cut,rm,cd,pwd,A
+Which command shows the first lines?,head,tail,grep,sort,A
+Which command shows the last lines?,tail,head,cut,cp,A
+Which command creates an empty file?,touch,rm,cd,ls,A
+Which command shows system information?,uname,grep,cut,uniq,A
+Which symbol overwrites output?,>>,>,|,&,B
+Which symbol appends output?,>,>>,<,|,B
+Which command creates a compressed archive?,tar,grep,sort,cut,A
+Which command shows running processes?,ps,pwd,mkdir,uniq,A
+Which command schedules tasks?,crontab,chmod,grep,head,A
