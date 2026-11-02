@@ -81,3 +81,14 @@ The project includes a Question of the Day feature. Automatic daily execution re
 ## 🎓 Project Purpose
 
 This project demonstrates the use of Bash scripting, conditional statements, loops, functions, file handling, Linux commands, logging, and backup operations.
+
+
+## Project Guide
+
+This project was completed under the guidance of **Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications, LJ Institute of Computer Applications, LJ University, Ahmedabad.
+
+**GitHub:** [@anjum-mansuri](https://github.com/anjum-mansuri)
+
+**Course:** OS Linux Lab 260120510  
+**Project Title:** Terminal Quiz Battle  
+**Project ID:** L16
